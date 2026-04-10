@@ -1,0 +1,23 @@
+{
+	"analysisMode":"commit-range",
+	"beforeSha":"1ffce60740fa532204e2329e81c82883f3ac1e5b",
+	"branch":"main",
+	"commits":[
+		{
+			"additions":1,
+			"authorEmail":"3177613295@qq.com",
+			"authorName":"Kuang",
+			"committedAt":"2026-04-10T16:54:02+08:00",
+			"deletions":2,
+			"files":["tools/repository-development-chronicle-sdk/src/main/java/plus/gaga/middleware/sdk/infrastructure/git/RepositoryHistoryAnalyzer.java"],
+			"hash":"288fd512df1c8acd1d0094c0996dca8d8e71e4aa",
+			"message":"feat：修改留痕文件路径",
+			"shortHash":"288fd51"
+		}
+	],
+	"generatedAt":"2026-04-10T08:54:29.723886Z",
+	"headCommitMessage":"feat：修改留痕文件路径",
+	"headSha":"288fd512df1c8acd1d0094c0996dca8d8e71e4aa",
+	"sourceRepository":"JosephKuang/campus-hub",
+	"triggerActor":"JosephKuang"
+}

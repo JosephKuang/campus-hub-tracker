@@ -1,0 +1,27 @@
+{
+	"schemaVersion":"1.0",
+	"generator":"repository-development-chronicle",
+	"generatedAt":"2026-04-10T08:54:29.786861Z",
+	"sourceRepository":"JosephKuang/campus-hub",
+	"sourceBranch":"main",
+	"triggerActor":"JosephKuang",
+	"analysisMode":"commit-range",
+	"beforeSha":"1ffce60740fa532204e2329e81c82883f3ac1e5b",
+	"headSha":"288fd512df1c8acd1d0094c0996dca8d8e71e4aa",
+	"headCommitMessage":"feat：修改留痕文件路径",
+	"commitCount":1,
+	"authors":[
+		"Kuang"
+	],
+	"filesTouched":[
+		"tools/repository-development-chronicle-sdk/src/main/java/plus/gaga/middleware/sdk/infrastructure/git/RepositoryHistoryAnalyzer.java"
+	],
+	"topDirectories":[
+		"tools/repository-development-chronicle-sdk/src/main/java/plus/gaga/middleware/sdk/infrastructure/git"
+	],
+	"totalAdditions":1,
+	"totalDeletions":2,
+	"commits":[
+		"288fd51"
+	]
+}
