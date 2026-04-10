@@ -1,0 +1,33 @@
+{
+	"schemaVersion":"1.0",
+	"generator":"repository-development-chronicle",
+	"generatedAt":"2026-04-10T14:19:52.288906Z",
+	"sourceRepository":"JosephKuang/campus-hub",
+	"sourceBranch":"main",
+	"triggerActor":"JosephKuang",
+	"analysisMode":"commit-range",
+	"beforeSha":"288fd512df1c8acd1d0094c0996dca8d8e71e4aa",
+	"headSha":"70649bfd850b89ced80acd1859274a1ff980ae07",
+	"headCommitMessage":"feat:ai 消息流式输出",
+	"commitCount":1,
+	"authors":[
+		"Kuang"
+	],
+	"filesTouched":[
+		"campus-hub-frontend/.env.example",
+		"campus-hub-frontend/env.d.ts",
+		"campus-hub-frontend/src/lib/zhipu.ts",
+		"campus-hub-frontend/src/pages/Chat.vue",
+		"campus-hub-frontend/vite.config.ts"
+	],
+	"topDirectories":[
+		"campus-hub-frontend",
+		"campus-hub-frontend/src/lib",
+		"campus-hub-frontend/src/pages"
+	],
+	"totalAdditions":372,
+	"totalDeletions":51,
+	"commits":[
+		"70649bf"
+	]
+}

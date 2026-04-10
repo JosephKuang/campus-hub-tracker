@@ -1,0 +1,23 @@
+{
+	"analysisMode":"commit-range",
+	"beforeSha":"288fd512df1c8acd1d0094c0996dca8d8e71e4aa",
+	"branch":"main",
+	"commits":[
+		{
+			"additions":372,
+			"authorEmail":"3177613295@qq.com",
+			"authorName":"Kuang",
+			"committedAt":"2026-04-10T22:18:55+08:00",
+			"deletions":51,
+			"files":["campus-hub-frontend/.env.example","campus-hub-frontend/env.d.ts","campus-hub-frontend/src/lib/zhipu.ts","campus-hub-frontend/src/pages/Chat.vue","campus-hub-frontend/vite.config.ts"],
+			"hash":"70649bfd850b89ced80acd1859274a1ff980ae07",
+			"message":"feat:ai 消息流式输出",
+			"shortHash":"70649bf"
+		}
+	],
+	"generatedAt":"2026-04-10T14:19:24.923863Z",
+	"headCommitMessage":"feat:ai 消息流式输出",
+	"headSha":"70649bfd850b89ced80acd1859274a1ff980ae07",
+	"sourceRepository":"JosephKuang/campus-hub",
+	"triggerActor":"JosephKuang"
+}
