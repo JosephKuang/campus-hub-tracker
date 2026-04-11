@@ -1,0 +1,23 @@
+{
+	"analysisMode":"commit-range",
+	"beforeSha":"70649bfd850b89ced80acd1859274a1ff980ae07",
+	"branch":"main",
+	"commits":[
+		{
+			"additions":922,
+			"authorEmail":"3177613295@qq.com",
+			"authorName":"Kuang",
+			"committedAt":"2026-04-12T01:34:46+08:00",
+			"deletions":359,
+			"files":["campus-hub-backend/campus-hub-pojo/src/main/java/cn/campushub/pojo/dto/ChatMessageDTO.java","campus-hub-backend/campus-hub-pojo/src/main/java/cn/campushub/pojo/dto/ChatRequestDTO.java","campus-hub-backend/campus-hub-pojo/src/main/java/cn/campushub/pojo/vo/ChatMapVO.java","campus-hub-backend/campus-hub-pojo/src/main/java/cn/campushub/pojo/vo/ChatResponseVO.java","campus-hub-backend/campus-hub-service/pom.xml","campus-hub-backend/campus-hub-service/src/main/java/cn/campushub/service/ChatService.java","campus-hub-backend/campus-hub-service/src/main/java/cn/campushub/service/impl/ChatServiceImpl.java","campus-hub-backend/campus-hub-web/pom.xml","campus-hub-backend/campus-hub-web/src/main/java/cn/campushub/web/config/AiClientConfig.java","campus-hub-backend/campus-hub-web/src/main/java/cn/campushub/web/controller/ZhipuAiController.java","campus-hub-backend/campus-hub-web/src/main/resources/application.yml","campus-hub-backend/campus-hub-web/src/test/java/cn/campushub/web/CampusHubWebApplicationTests.java","campus-hub-backend/pom.xml","campus-hub-frontend/.env.example","campus-hub-frontend/env.d.ts","campus-hub-frontend/src/lib/chat.ts","campus-hub-frontend/src/lib/zhipu.ts","campus-hub-frontend/src/pages/Chat.vue","campus-hub-frontend/vite.config.ts"],
+			"hash":"4ae6873e69c0a970bd5ec5ec7a2ac0c0a5d1d691",
+			"message":"feat：前后端分离ai对话模块",
+			"shortHash":"4ae6873"
+		}
+	],
+	"generatedAt":"2026-04-11T17:35:45.263974Z",
+	"headCommitMessage":"feat：前后端分离ai对话模块",
+	"headSha":"4ae6873e69c0a970bd5ec5ec7a2ac0c0a5d1d691",
+	"sourceRepository":"JosephKuang/campus-hub",
+	"triggerActor":"JosephKuang"
+}
